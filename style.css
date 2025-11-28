@@ -68,6 +68,10 @@ img {
     font-size: 30px;
 }
 
+.procedure h3 {
+    margin: 30px
+}
+
 .procedure li {
     margin-left: 50px;
     margin-bottom: 10px;
@@ -75,4 +79,11 @@ img {
 
 .procedure h2 {
     margin: 40px 0px;
+}
+
+footer {
+    border-top:  5px dotted #FAF3E1;
+    margin-top: 90px;
+    padding: 30px 0px 0px;
+    text-align: center;
 }
