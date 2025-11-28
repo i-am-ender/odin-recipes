@@ -4,6 +4,16 @@ html * {
     box-sizing: border-box;
 }
 
+.homepage-button {
+    display: block;
+    margin: 0px auto;
+    margin-top: 50px;
+    padding: 10px 0;
+    background-color: #222222;
+    text-align: center;
+    color: #FAF3E1;
+}
+
 body {
     background-color: #F5E7C6;
 }
@@ -36,4 +46,33 @@ h1 {
     font-size: 30px;
     font-family: Verdana, Tahoma, sans-serif;
     margin: 40px;
+}
+
+img {
+    display: block;
+    margin: 0px auto 80px;
+    border: white solid 15px;
+    border-bottom: white solid 45px;
+    text-align: center;
+}
+
+.procedure {
+    font-family: Verdana, Tahoma, sans-serif;
+    width: 900px;
+    height: auto;
+    padding: 0px 40px;
+    margin: 0px auto;
+}
+
+.procedure h2 {
+    font-size: 30px;
+}
+
+.procedure li {
+    margin-left: 50px;
+    margin-bottom: 10px;
+}
+
+.procedure h2 {
+    margin: 40px 0px;
 }
